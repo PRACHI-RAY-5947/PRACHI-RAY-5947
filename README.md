@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓I am currently working on FLUTTER<br>📱📲I am currently looking to collaborate on Github<br>👨‍💻...I am currently learning DSA & FLUTTER<br>⚡Student of Bsc IT<br>
+🎓I am currently working on FLUTTER<br>📱📲I am currently looking to collaborate on Github<br>👨‍💻...I am currently working as FLUTTER DEVELOPER<br>⚡Student of Bsc IT<br>
 
 
 ## 🌐 Socials:
